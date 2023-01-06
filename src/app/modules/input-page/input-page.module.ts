@@ -4,6 +4,7 @@ import { MainComponent } from './main/main.component';
 
 @NgModule({
   imports: [CommonModule],
+  exports: [MainComponent],
   declarations: [MainComponent],
 })
 export class InputPageModule {}
