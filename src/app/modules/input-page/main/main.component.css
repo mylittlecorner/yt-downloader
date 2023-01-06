@@ -1,8 +1,3 @@
 .main-container {
-  background-color: #4e4e4e;
-  margin: 15px;
-  padding: 5px;
-  border-radius: 100px;
-  border: 5px solid rgb(63, 63, 63);
-  width: fit-content;
+  display: flex;
 }
